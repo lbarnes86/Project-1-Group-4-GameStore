@@ -1,7 +1,8 @@
 # Project-1-Group-4-GameStore
 
 
-## Live Demo: https://snazzy-bonbon-2c6594.netlify.app/
+## Live Demo: 
+https://snazzy-bonbon-2c6594.netlify.app/
 
 ## Project Goal
 
@@ -40,7 +41,7 @@ THEN I store the previous information into LocalStorage to access again
 
 ## Links
 
-## Live Demo: https://snazzy-bonbon-2c6594.netlify.app/
+ Live Demo: https://snazzy-bonbon-2c6594.netlify.app/
  - Deployment: Front-end: Netlify; Back-end: Heroku.
 
 Github: https://github.com/jtstockard/Project-1-Group-4-GameStore
