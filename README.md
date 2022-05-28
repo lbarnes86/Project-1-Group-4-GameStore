@@ -1,9 +1,5 @@
 # Project-1-Group-4-GameStore
 
-## Live Demo: https://snazzy-bonbon-2c6594.netlify.app/
-
-## Deployment: Front-end: Netlify; Back-end: Heroku.
-
 ## Project Goal
 
 The user will be able to search and filter consoles, games, t-shirts, and invoices by certain features. Features will include searches by manufacturer, size, color, and titles. This is the current MVP for this to make sure back end compatibility is used for a RESTful API.
@@ -40,6 +36,9 @@ THEN I store the previous information into LocalStorage to access again
 - [Collaborators](#Collaborators)
 
 ## Links
+### Live Demo: https://snazzy-bonbon-2c6594.netlify.app/
+
+ - Deployment: Front-end: Netlify; Back-end: Heroku.
 
 Below are links to access this repository.
 
